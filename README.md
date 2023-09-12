@@ -1,7 +1,7 @@
-<h1>Me chamo Augusto Rodolpho Dalmás.</h1>  
+<h1>Sobre Augusto Rodolpho Dalmás.</h1>  
 
 Estou em busca de uma oportunidade de entrar no mercado de desenvolvimento, particularmente no desenvolvimento Python.
-
+Até o momento não possuo experiencia profissional no mercado, toda experiencia que possuo é acadêmica, levando em consideração meus estudos e projetos pessoais.
 
 
 
