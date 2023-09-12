@@ -1,4 +1,4 @@
-<h1>olá visitante, me chamo Augusto Rodolpho Dalmás e estou em busca de ser tornar um desenvolvedor JR.</h1>  
+<h1>"olá visitante, me chamo Augusto Rodolpho Dalmás." color: black;</h1>  
 
 
 
