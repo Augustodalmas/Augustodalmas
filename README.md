@@ -1,5 +1,6 @@
-<h1>olá visitante, me chamo Augusto Rodolpho Dalmás.</h1>  
+<h1>Me chamo Augusto Rodolpho Dalmás.</h1>  
 
+Estou em busca de uma oportunidade de entrar no mercado de desenvolvimento, particularmente no desenvolvimento Python.
 
 
 
