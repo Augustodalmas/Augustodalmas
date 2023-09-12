@@ -2,7 +2,7 @@
 
 Estou em busca de uma oportunidade de entrar no mercado de desenvolvimento, particularmente no desenvolvimento Python.
 
-Até o momento não possuo experiencia profissional no mercado, toda experiencia que possuo é acadêmica, com meus estudos e projetos pessoais.
+Não possuo experiencia profissional no mercado, toda experiencia que possuo é acadêmica, com meus estudos e projetos pessoais.
 
 
 
