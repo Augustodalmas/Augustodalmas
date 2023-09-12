@@ -4,7 +4,7 @@ Estou em busca de uma oportunidade de entrar no mercado de desenvolvimento, part
 
 Não possuo experiencia profissional no mercado, toda experiencia que possuo é acadêmica, com meus estudos e projetos pessoais.
 Com meus estudos já tive conhecimento introdutório nas seguintes tecnologias:
-</br>
+
 <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a>
 
 <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="21px" height="21px"></a>
