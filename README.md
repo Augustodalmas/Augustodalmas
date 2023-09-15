@@ -14,12 +14,13 @@ Cursando Engenharia da computação, já no 4°Semestre, onde já obtive conheci
 * lógica computacional;
 * Sistemas operacionais.
 
-Em 2022 realizei meu primeiro curso de lógica de programação pela FLEXXO em Caxias do sul, com este curso consegui entender oque é um Algoritmo, a utilização de IF e ELSE, diferença de WHILE, DO WHILE e FOR, manipulação de arquivos e um pouco sobre ponteiros. Tudo isso utilizando C.
+Em 2022 realizei meu primeiro curso de lógica de programação pela FLEXXO em Caxias do sul, com este curso consegui entender o que é um Algoritmo, a utilização de IF e ELSE, diferença de WHILE, DO WHILE e FOR, manipulação de arquivos e um pouco sobre ponteiros. Tudo isso utilizando C.
 
-Após o termino de meu primeiro curso de lógica, me interessei muito pela linguagem Python.
-Pesquisando um pouco onde o python é utilizado, observei que utilizamos ele em automação, desenvolvimento web e bots. Me interessei nessas areas e comecei a pesquisar mais a fundo, realizando meu primeiro curso de Python pela Danki Code, onde aprendi sobre sua sintaxe e orientação a objetos.
-Após isso comecei a fazer alguns projetos pessoais apenas para brincar com o python, utlização do python para enviar mensagens pelo Whatsapp, gerador de QRcode entre outras aplicações simples.
+Após o término de meu primeiro curso de lógica, me interessei muito pela linguagem Python.
+Pesquisando um pouco onde o python é utilizado, observei que utilizamos ele em automação, desenvolvimento web e bots. Me interessei nessas áreas e comecei a pesquisar mais a fundo, realizando meu primeiro curso de Python pela Danki Code, onde aprendi sobre sua sintaxe e orientação a objetos.
+Após isso comecei a fazer alguns projetos pessoais apenas para brincar com o Python, utilização do Python para enviar mensagens pelo Whatsapp, gerador de QRcode entre outras aplicações simples.
 
-Em julho de 2023, iniciei um treinamento para uma empresa, onde aprendi um pouco sobre JavaScript, PL/SQL, JAVA e Python, neste treinamento na area de python, vimos um pouco sobre a criação de APIs utilizando a biblioteca FastAPI com o python.
+Em julho de 2023, iniciei um treinamento para uma empresa, onde aprendi um pouco sobre JavaScript, PL/SQL, JAVA e Python, neste treinamento na área de Python, vimos um pouco sobre a criação de APIs utilizando a biblioteca FastAPI com o Python.
 
 Meu próximo objetivo em python e concluir meu curso de Django e realizar diversos projetos para fixar meu aprendizado nessa biblioteca.
+
