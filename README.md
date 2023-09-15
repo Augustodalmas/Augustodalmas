@@ -24,3 +24,4 @@ Em julho de 2023, iniciei um treinamento para uma empresa, onde aprendi um pouco
 
 Meu próximo objetivo em python e concluir meu curso de Django e realizar diversos projetos para fixar meu aprendizado nessa biblioteca.
 
+Recentemente estou trabalhando emcima do projeto Sistema-Login, onde a idéia é criar uma tela de registro e login de usuarios, onde o usuario tem a possiblidade de editar suas informações e exluir seu perfil, projeto simples porêm servirá para fixar mais sobre SQL e a biblioteca Tkinter do Python para a criação de interfaces gráficas.
