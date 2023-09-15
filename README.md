@@ -15,3 +15,6 @@ Cursando Engenharia da computação, já no 4°Semestre, onde já obtive conheci
 * Sistemas operacionais.
 
 Em 2022 realizei meu primeiro curso de lógica de programação pela FLEXXO em Caxias do sul, com este curso consegui entender oque é um Algoritmo, a utilização de IF e ELSE, diferença de WHILE, DO WHILE e FOR, manipulação de arquivos e um pouco sobre ponteiros. Tudo isso utilizando <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="C" width="21px" height="21px"></a>
+
+Após o termino de meu primeiro curso de lógica, me interessei muito pela linguagem Python.
+Pesquisando um pouco onde o python é utilizado, observei que utilizamos ele em automação, desenvolvimento web e bots.
