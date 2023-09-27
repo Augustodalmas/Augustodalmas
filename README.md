@@ -22,6 +22,4 @@ Após isso comecei a fazer alguns projetos pessoais apenas para brincar com o Py
 
 Em julho de 2023, iniciei um treinamento para uma empresa, onde aprendi um pouco sobre JavaScript, PL/SQL, JAVA e Python, neste treinamento na área de Python, vimos um pouco sobre a criação de APIs utilizando a biblioteca FastAPI com o Python.
 
-Meu próximo objetivo em python e concluir meu curso de Django e realizar diversos projetos para fixar meu aprendizado nessa biblioteca.
-
-Recentemente estou trabalhando emcima do projeto Sistema-Login, onde a idéia é criar uma tela de registro e login de usuarios, onde o usuario tem a possiblidade de editar suas informações e exluir seu perfil, projeto simples porêm servirá para fixar mais sobre SQL e a biblioteca Tkinter do Python para a criação de interfaces gráficas.
+Atualmente realizando um curso de Django para aprender sobre este framework de desenvolvimento WEB!
