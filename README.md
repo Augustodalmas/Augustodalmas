@@ -13,3 +13,10 @@ Cursando Engenharia da computação, já no 5°Semestre, onde já obtive conheci
 * Fundamentos computacionais;
 * lógica computacional;
 * Sistemas operacionais.
+
+E alguns estudos que foram feitos por fora da faculdade puderam me oferecer os seguintes conhecimentos:
+* Python;
+* HTML & CSS;
+* Django;
+* Git & Github;
+* AWS.
