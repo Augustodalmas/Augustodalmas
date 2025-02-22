@@ -9,14 +9,19 @@ Com meus estudos já tive conhecimento introdutório nas seguintes tecnologias:
 
 Cursando Engenharia da computação, já no 5°Semestre, onde já obtive conhecimentos sobre:
 * Redes de computadores;
-* Organização e Arquitetura de computadores;
+* Organização e Arquitetura de computadores I;
 * Fundamentos computacionais;
 * lógica computacional;
-* Sistemas operacionais.
+* Sistemas operacionais;
+* Programação orientada a objetos;
+* Logica de programação I;
+* lógica de programação II;
+* Estrutura de Dados;
 
 E alguns estudos que foram feitos por fora da faculdade puderam me oferecer os seguintes conhecimentos:
 * Python;
-* HTML & CSS;
 * Django;
-* Git & Github;
-* AWS.
+* React;
+* NodeJS;
+* HTML & CSS;
+* Git & Github.
